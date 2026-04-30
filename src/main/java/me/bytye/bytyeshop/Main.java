@@ -1,4 +1,4 @@
-package main.java.me.bytye.bytyeshop;
+package me.bytye.bytyeshop;
 
 
 import net.milkbowl.vault.economy.Economy;
