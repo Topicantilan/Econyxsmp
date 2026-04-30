@@ -1,4 +1,4 @@
-package main.java.me.bytye.bytyeshop;
+package me.bytye.bytyeshop;
 
 import org.bukkit.ChatColor;
 import org.bukkit.Material;
